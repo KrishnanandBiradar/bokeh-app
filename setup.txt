@@ -1,0 +1,3 @@
+>> cd /mnt/f/New\ folder/workshop/visualization/bokeh-app
+>> python3 -m venv myenv
+>> source myenv/bin/activate
